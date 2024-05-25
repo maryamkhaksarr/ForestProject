@@ -908,3 +908,27 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.05.25-22.51.11:064][728]AssetCheck: New page: Asset Save: multiple assets
 [2024.05.25-22.51.11:064][728]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.05.25-22.51.11:065][728]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.05.25-22.52.50:805][ 53]LogStaticMesh: Warning: Mesh Conifer1 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/NaturePackage/Meshes/flora/Conifer1.Conifer1.
+[2024.05.25-22.53.07:733][621]LogSlate: Took 0.005216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.05.25-22.53.29:483][ 26]Cmd: TRANSACTION UNDO
+[2024.05.25-22.53.29:483][ 26]LogEditorTransaction: Undo Foliage Editing
+[2024.05.25-22.53.30:116][ 48]Cmd: TRANSACTION UNDO
+[2024.05.25-22.53.30:116][ 48]LogEditorTransaction: Undo Foliage Editing
+[2024.05.25-22.53.47:133][866]Cmd: TRANSACTION UNDO
+[2024.05.25-22.53.47:133][866]LogEditorTransaction: Undo Foliage Editing
+[2024.05.25-22.53.47:737][887]Cmd: TRANSACTION UNDO
+[2024.05.25-22.53.47:737][887]LogEditorTransaction: Undo Foliage Editing
+[2024.05.25-22.53.48:343][931]Cmd: TRANSACTION UNDO
+[2024.05.25-22.53.48:343][931]LogEditorTransaction: Undo Foliage Editing
+[2024.05.25-22.54.58:742][143]LogStaticMesh: Warning: Mesh Conifer5 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/NaturePackage/Meshes/flora/Conifer5.Conifer5.
+[2024.05.25-22.54.58:957][163]LogActorFactory: Actor Factory created Conifer5
+[2024.05.25-22.55.44:424][797]LogEditorViewport: Clicking on Actor (double click): InstancedFoliageActor (InstancedFoliageActor)
+[2024.05.25-22.55.45:091][875]LogEditorViewport: Clicking on Actor (double click): InstancedFoliageActor (InstancedFoliageActor)
+[2024.05.25-22.55.51:136][590]LogRenderer: Reallocating scene render targets to support 988x472 Format 10 NumSamples 1 (Frame:105969).
+[2024.05.25-23.00.05:669][792]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2024.05.25-23.00.58:887][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.05.25-23.00.59:241][383]LogSavePackage: Moving '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Saved/Minimal_Default89F020794CCB5C9C022C629689C39C87.tmp' to '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.05.25-23.00.59:271][383]LogSavePackage: Moving '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Saved/Minimal_Default_BuiltData15C8CBF543E72A7B9EE768B81BF00946.tmp' to '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.05.25-23.00.59:290][383]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.25-23.00.59:290][383]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.05.25-23.00.59:291][383]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
