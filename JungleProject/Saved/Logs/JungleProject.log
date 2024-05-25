@@ -932,3 +932,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.05.25-23.00.59:290][383]AssetCheck: New page: Asset Save: multiple assets
 [2024.05.25-23.00.59:290][383]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.05.25-23.00.59:291][383]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.05.25-23.03.20:039][518]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/NaturePackage/Meshes/flora/Ivan_tea02.Ivan_tea02
+[2024.05.25-23.03.20:096][518]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2024.05.25-23.03.20:171][518]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.05.25-23.03.20:528][518]LogRenderer: Reallocating scene render targets to support 1168x704 Format 10 NumSamples 1 (Frame:1).
+[2024.05.25-23.03.26:494][844]LogSlate: Window 'Ivan_tea02' being destroyed
+[2024.05.25-23.03.26:517][844]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.25-23.03.26:517][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-23.03.29:046][ 27]LogActorFactory: Actor Factory created Ivan_tea02
+[2024.05.25-23.04.42:570][900]LogActorFactory: Actor Factory created Ivan_tea01
+[2024.05.25-23.06.24:980][483]LogStaticMesh: Warning: Mesh Tree06_2 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/NaturePackage/Meshes/flora/Tree06_2.Tree06_2.
+[2024.05.25-23.06.25:346][520]LogActorFactory: Actor Factory created Tree06_2
+[2024.05.25-23.07.20:900][962]Cmd: TRANSACTION UNDO
+[2024.05.25-23.07.20:900][962]LogEditorTransaction: Undo Foliage Editing
+[2024.05.25-23.07.21:203][963]Cmd: TRANSACTION UNDO
+[2024.05.25-23.07.21:203][963]LogEditorTransaction: Undo Foliage Editing
+[2024.05.25-23.08.22:049][303]LogStaticMesh: Warning: Mesh Tree05_2 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/NaturePackage/Meshes/flora/Tree05_2.Tree05_2.
+[2024.05.25-23.08.22:342][331]LogActorFactory: Actor Factory created Tree05_2
+[2024.05.25-23.09.48:173][223]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2024.05.25-23.10.40:873][946]LogStaticMesh: Warning: Mesh Tree03_2 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/NaturePackage/Meshes/flora/Tree03_2.Tree03_2.
+[2024.05.25-23.10.41:523][ 20]LogActorFactory: Actor Factory created Tree03_2
+[2024.05.25-23.11.50:234][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.05.25-23.11.50:606][376]LogSavePackage: Moving '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Saved/Minimal_DefaultECB07F5349DA4CF1D0248CBC5054A60E.tmp' to '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.05.25-23.11.50:635][376]LogSavePackage: Moving '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Saved/Minimal_Default_BuiltData5955542B4E8632BDB9578A9008F06B2C.tmp' to '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.05.25-23.11.50:649][376]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.25-23.11.50:649][376]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.05.25-23.11.50:649][376]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
