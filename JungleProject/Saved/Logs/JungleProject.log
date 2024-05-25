@@ -900,3 +900,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.05.25-22.31.11:885][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
 [2024.05.25-22.31.11:916][  2]LogSlate: Took 0.000492 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2024.05.25-22.31.17:053][215]LogSlate: Took 0.000347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.05.25-22.39.21:193][191]LogActorFactory: Actor Factory created Grass1_05
+[2024.05.25-22.39.21:752][254]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.25-22.51.10:649][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.05.25-22.51.10:997][728]LogSavePackage: Moving '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Saved/Minimal_Default7025C872428568469BEE929F8E8D7B2B.tmp' to '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.05.25-22.51.11:038][728]LogSavePackage: Moving '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Saved/Minimal_Default_BuiltData5C4A4B4F427C195327D9E885A05A3F48.tmp' to '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.05.25-22.51.11:064][728]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.25-22.51.11:064][728]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.05.25-22.51.11:065][728]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
