@@ -964,3 +964,135 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.16-18.02.19:124][434]LogSavePackage: Moving '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Saved/ABP_VehicleAnim4078A6144720CE104631839B452FBF95.tmp' to '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Content/ABP_VehicleAnim.uasset'
 [2024.06.16-18.02.19:137][434]AssetCheck: New page: Asset Save: ABP_VehicleAnim
 [2024.06.16-18.02.19:137][434]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_VehicleAnim.ABP_VehicleAnim
+[2024.06.16-18.06.12:082][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2024.06.16-18.06.12:578][232]LogSavePackage: Moving '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Saved/Minimal_Default_Auto3DBDA4A6244F9C33045109397ECC45776.tmp' to '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
+[2024.06.16-18.06.12:579][232]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.539
+[2024.06.16-18.06.12:579][232]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.539
+[2024.06.16-18.12.39:392][601]BlueprintLog: New page: Compile ABP_VehicleAnim
+[2024.06.16-18.12.39:442][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2024.06.16-18.12.40:617][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_VehicleAnim" FILE="../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Content/ABP_VehicleAnim.uasset" SILENT=true
+[2024.06.16-18.12.40:642][666]LogSavePackage: Moving '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Saved/ABP_VehicleAnim19491EE441D0F9CC5708A4A469C7149E.tmp' to '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Content/ABP_VehicleAnim.uasset'
+[2024.06.16-18.12.40:658][666]AssetCheck: New page: Asset Save: ABP_VehicleAnim
+[2024.06.16-18.12.40:658][666]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_VehicleAnim.ABP_VehicleAnim
+[2024.06.16-18.19.19:078][484]BlueprintLog: New page: Compile ABP_VehicleAnim
+[2024.06.16-18.19.19:129][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2024.06.16-18.19.19:945][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ABP_VehicleAnim" FILE="../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Content/ABP_VehicleAnim.uasset" SILENT=true
+[2024.06.16-18.19.19:973][528]LogSavePackage: Moving '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Saved/ABP_VehicleAnimF5C7F1BA42C704643411C9A3664ADB47.tmp' to '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Content/ABP_VehicleAnim.uasset'
+[2024.06.16-18.19.19:990][528]AssetCheck: New page: Asset Save: ABP_VehicleAnim
+[2024.06.16-18.19.19:990][528]LogContentValidation: Display: Validating AnimBlueprint /Game/ABP_VehicleAnim.ABP_VehicleAnim
+[2024.06.16-18.19.59:204][876]LogTemp: Repeating last play command: Selected Viewport
+[2024.06.16-18.19.59:208][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.16-18.19.59:209][876]PIE: New page: PIE session: Minimal_Default (۲۸ خرداد ۱۴۰۳،‏ ۲:۱۹:۵۹)
+[2024.06.16-18.19.59:211][876]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.06.16-18.19.59:212][876]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.06.16-18.19.59:213][876]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.06.16-18.19.59:351][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.138485s)
+[2024.06.16-18.19.59:352][876]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.06.16-18.19.59:353][876]LogPlayLevel: PIE: World Init took: (0.001295s)
+[2024.06.16-18.19.59:353][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.139979s)
+[2024.06.16-18.19.59:375][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.06.16-18.19.59:378][876]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.06.16-18.19.59:378][876]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.16-18.19.59:378][876]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.16-18.19.59:378][876]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.16-18.19.59:378][876]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.16-18.19.59:378][876]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.16-18.19.59:378][876]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.16-18.19.59:378][876]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.16-18.19.59:378][876]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.16-18.19.59:378][876]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.16-18.19.59:378][876]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.16-18.19.59:378][876]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.16-18.19.59:378][876]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.16-18.19.59:381][876]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.16-18.19.59:381][876]LogAudioMixer: Display: 1: FrontRight
+[2024.06.16-18.19.59:392][876]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.06.16-18.19.59:392][876]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.16-18.19.59:392][876]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.16-18.19.59:392][876]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.16-18.19.59:392][876]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.16-18.19.59:392][876]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.16-18.19.59:392][876]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.06.16-18.19.59:393][876]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.16-18.19.59:393][876]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.16-18.19.59:393][876]LogInit: FAudioDevice initialized.
+[2024.06.16-18.19.59:393][876]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2024.06.16-18.19.59:402][876]LogLoad: Game class is 'GameModeBase'
+[2024.06.16-18.19.59:416][876]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2024.06.16-21.49.59
+[2024.06.16-18.19.59:416][876]LogWorld: Bringing up level for play took: 0.013717
+[2024.06.16-18.19.59:418][876]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2024.06.16-18.19.59:424][876]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2024.06.16-18.19.59:424][876]LogBlueprintUserMessages: [Minimal_Default_C_7] a1
+[2024.06.16-18.19.59:425][876]PIE: Server logged in
+[2024.06.16-18.19.59:426][876]PIE: Play in editor total start time ۰٫۲۱۸ seconds.
+[2024.06.16-18.20.08:740][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.16-18.20.08:740][411]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.06.16-18.20.08:740][411]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-18.20.08:744][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-18.20.08:754][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.16-18.20.08:765][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-18.20.08:790][411]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.16-18.20.08:795][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.16-18.20.08:797][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.16-18.20.08:799][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.16-18.20.08:834][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2024.06.16-18.20.08:854][412]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.06.16-18.20.09:650][455]LogTemp: Repeating last play command: Selected Viewport
+[2024.06.16-18.20.09:655][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.16-18.20.09:655][455]PIE: New page: PIE session: Minimal_Default (۲۸ خرداد ۱۴۰۳،‏ ۲:۲۰:۰۹)
+[2024.06.16-18.20.09:655][455]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.06.16-18.20.09:786][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.131202s)
+[2024.06.16-18.20.09:787][455]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.06.16-18.20.09:787][455]LogPlayLevel: PIE: World Init took: (0.000999s)
+[2024.06.16-18.20.09:787][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.132335s)
+[2024.06.16-18.20.09:828][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2024.06.16-18.20.09:829][455]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.06.16-18.20.09:829][455]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.16-18.20.09:829][455]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.16-18.20.09:829][455]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.16-18.20.09:829][455]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.16-18.20.09:829][455]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.16-18.20.09:829][455]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.16-18.20.09:829][455]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.16-18.20.09:829][455]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.16-18.20.09:829][455]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.16-18.20.09:829][455]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.16-18.20.09:830][455]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.16-18.20.09:830][455]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.16-18.20.09:831][455]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.16-18.20.09:831][455]LogAudioMixer: Display: 1: FrontRight
+[2024.06.16-18.20.09:840][455]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.06.16-18.20.09:840][455]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.16-18.20.09:840][455]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.16-18.20.09:840][455]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.16-18.20.09:841][455]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.16-18.20.09:841][455]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.16-18.20.09:841][455]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.06.16-18.20.09:842][455]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.16-18.20.09:842][455]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.16-18.20.09:842][455]LogInit: FAudioDevice initialized.
+[2024.06.16-18.20.09:842][455]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default'.
+[2024.06.16-18.20.09:847][455]LogLoad: Game class is 'GameModeBase'
+[2024.06.16-18.20.09:861][455]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2024.06.16-21.50.09
+[2024.06.16-18.20.09:862][455]LogWorld: Bringing up level for play took: 0.013336
+[2024.06.16-18.20.09:862][455]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2024.06.16-18.20.09:866][455]LogBlueprintUserMessages: [Minimal_Default_C_7] a1
+[2024.06.16-18.20.09:867][455]PIE: Server logged in
+[2024.06.16-18.20.09:867][455]PIE: Play in editor total start time ۰٫۲۱۳ seconds.
+[2024.06.16-18.20.35:321][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.16-18.20.35:321][965]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.06.16-18.20.35:322][965]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-18.20.35:327][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-18.20.35:336][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.16-18.20.35:348][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-18.20.35:370][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.16-18.20.35:373][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.16-18.20.35:374][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.16-18.20.35:381][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.06.16-18.20.35:401][966]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.06.16-18.20.54:051][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.06.16-18.20.54:523][ 43]LogSavePackage: Moving '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Saved/Minimal_DefaultBE4E7F0E4EEEDEA22F7E45A2DB833953.tmp' to '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.16-18.20.54:570][ 43]LogSavePackage: Moving '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Saved/Minimal_Default_BuiltDataAFF14F3A4D587226A2D4F7A97D4F5F0A.tmp' to '../../../../../../../UNREAL/UniversityGame/ForestProject/JungleProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.06.16-18.20.54:588][ 43]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.16-18.20.54:588][ 43]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.06.16-18.20.54:588][ 43]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
